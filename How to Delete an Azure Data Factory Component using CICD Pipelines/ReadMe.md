@@ -6,7 +6,8 @@ The good news is that you can enable this functionality using Azure DevOps and a
 
 How this is done:
 
-There are complete instructions on the steps to set up the run of the PowerShell script. 
+There are complete instructions on the steps to set up the run of the PowerShell script.
+
 Link [Continuous integration and delivery pre- and post-deployment scripts - Azure Data Factory | Microsoft Learn](https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script)
 
 Link to the script: [Azure-DataFactory/PrePostDeploymentScript.Ver2.ps1 at main · Azure/Azure-DataFactory (github.com)](https://github.com/Azure/Azure-DataFactory/blob/main/SamplesV2/ContinuousIntegrationAndDelivery/PrePostDeploymentScript.Ver2.ps1)
