@@ -12,4 +12,3 @@ Link [Continuous integration and delivery pre- and post-deployment scripts - Azu
 Link to the script: [Azure-DataFactory/PrePostDeploymentScript.Ver2.ps1 at main · Azure/Azure-DataFactory (github.com)](https://github.com/Azure/Azure-DataFactory/blob/main/SamplesV2/ContinuousIntegrationAndDelivery/PrePostDeploymentScript.Ver2.ps1)
 
 
-
